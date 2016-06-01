@@ -4,7 +4,7 @@ body
  color: blue;}
 .obrazek
 {display: flex;}
-.obrazek img {width: 80%; margin: auto;}
+.obrazek img {width: 80%; margin: auto; hight: 80px}
 .guziki {display: flex;
 	align-items: center;
 	justify-content:center;
