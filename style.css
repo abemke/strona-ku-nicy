@@ -1,0 +1,7 @@
+body
+{background-color: yellow;
+ font-family: "Times New Roman";
+ color: blue;}
+.obrazek
+{display: flex;}
+.obrazek img {width: 100%}
